@@ -73,6 +73,7 @@ Python (pandas, SQLAlchemy) · PostgreSQL · pgAdmin · Git/GitHub
 ## Repository Structure
 ```
 ├── load_data.py
+├── analysis.sql
 ├── job-bank-open-data-all-job-postings-en-sept2026.csv
 ├── noc_2021_version_1.0_-_classification_structure.csv
 └── README.md
